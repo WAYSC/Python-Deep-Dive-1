@@ -34,7 +34,7 @@ The content is structured progressively, following a **deep-first rather than su
 
 The following mind map illustrates the overall structure and learning path of this repository:
 
-![Python Deep Dive Overview](./assets/python_deep_dive_overview.png)
+![Python Deep Dive Overview](./assets/overview.jpg)
 
 > The diagram summarizes the conceptual framework behind Python Deep Dive I, including philosophy, language mechanics, and internal behaviors.
 
