@@ -4,6 +4,14 @@ This repository contains my in-depth study notes and code implementations based 
 
 The goal of this repository is not only to *use* Python, but to *understand how Python works*.
 
+
+## 🎥 Video Lectures (Bilibili)
+
+🐍 Python language internals, object model, memory semantics, and idiomatic design 
+
+This repository is accompanied by **full lecture recordings**, where I explain the concepts, code, and design decisions step by step.
+
+> 👉 https://www.bilibili.com/video/BV1oRs3zrEek/
 ---
 
 ## 📌 Repository Scope
@@ -26,7 +34,7 @@ The content is structured progressively, following a **deep-first rather than su
 
 The following mind map illustrates the overall structure and learning path of this repository:
 
-![Python Deep Dive Overview](./assets/python_deep_dive_overview.jpg)
+![Python Deep Dive Overview](./assets/python_deep_dive_overview.png)
 
 > The diagram summarizes the conceptual framework behind Python Deep Dive I, including philosophy, language mechanics, and internal behaviors.
 
